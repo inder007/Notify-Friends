@@ -10,4 +10,4 @@ This will be implemented in 2 ways:
 
 Offline manual will be provided that will help the user to survive in emergency situation.
 
-Additional idea - If time permits we will try to implement sending some other useful description that user want to send via sms to his trusted contacts. We are thinking to implement a feature that will allow people having this app to connect over wifi hot-spots and after connecting they can talk over phone without any network in a particular range. 
+Additional idea - If time permits we will try to implement sending some other useful description that user want to send via sms to his trusted contacts. We are thinking to implement a feature that will allow people having this app to connect over wifi hot-spots and after connecting they can talk over phone without any network in a particular range so that people stuck in a disaster can communicate with each other. 
